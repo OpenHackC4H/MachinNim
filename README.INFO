@@ -5,7 +5,7 @@ This is a repository for the files used to present our teams (MachinNim) solutio
 The cases:
 https://www.openhack.io/s/Challenges-Uppsala-2017.pdf
 
-The solution we are providing is an template to bring out the professional abilities of an potential employee. 
+The solution we are providing is a template to bring out the professional abilities of a potential employee. 
 In order to do this we need to remove some personal information in the beginning of the matching process. The template consists of a flow chart with two breakpoints where both the applicant and the employer can choose to move on or not. During the first step, very little information is displayed. The information that is shown matches the job advertisement as well as some personal traits. At the second step, the same information that would be displayed on a resume, but with all potential grounds of discrimination hidden. If both the applicant and the employer likes to proceed on the basis of the information shown, complete contact information is provided to both of them so that they can initiate further communication.
 
 At the break point at the second stage, both the applicant and the employer are invited to send a greeting to the other party, or perhaps a reason why the applicant or employer wasn't a good match.
